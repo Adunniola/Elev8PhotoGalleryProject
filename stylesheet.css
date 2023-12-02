@@ -12,7 +12,7 @@
   .headerImg {
     display: flex;
     flex-direction: column;
-    background: url(image_files/_1.jpg) no-repeat ;
+    background: url(image_files/1.jpg) no-repeat ;
     background-size: cover;
     height: 70vh;
     padding: 2rem;
