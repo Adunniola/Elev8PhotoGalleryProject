@@ -9,12 +9,16 @@
     color: hsl(0, 0%, 100%);
   }
   
+  .GalleryAlbum{
+    margin-left: 2%;
+    margin-right: 2%;
+  }
   .headerImg {
     display: flex;
     flex-direction: column;
     background: url(image_files/1.jpg) no-repeat ;
     background-size: cover;
-    height: 70vh;
+    height: 55%;
     padding: 2rem;
     
   }
@@ -60,9 +64,9 @@
   }
   
   h1 {
-    text-align: start;
-    margin-bottom: 2rem;
-    font-size: 3rem;
+    
+    margin-bottom: 3px;
+    font-size:3rem;
   }
   
   .headerImg div p {
